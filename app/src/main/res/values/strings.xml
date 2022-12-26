@@ -3,7 +3,21 @@
     <string name="detail_monetaire_title">Détail monétaire</string>
     <string name="btn_calculate_text">Calculer le détail monétaire</string>
     <string name="montent_hint_text">20.05DH</string>
-    <integer-array name="dev_money">
+    <string-array name="titles">
+        <item>Nomber de billets de 200DH</item>
+        <item>Nomber de billets de 100DH</item>
+        <item>Nomber de billets de 50DH</item>
+        <item>Nomber de billets de 20DH</item>
+        <item>Nomber de pièces de 10DH</item>
+        <item>Nomber de pièces de 5DH</item>
+        <item>Nomber de pièces de 2DH</item>
+        <item>Nomber de pièces de 1DH</item>
+        <item>Nomber de pièces de 50 centimes</item>
+        <item>Nomber de pièces de 20 centimes</item>
+        <item>Nomber de pièces de 10 centimes</item>
+        <item>Nomber de pièces de 5 centimes</item>
+    </string-array>
+    <integer-array name="numbers">
         <item>200</item>
         <item>100</item>
         <item>50</item>
@@ -12,5 +26,9 @@
         <item>5</item>
         <item>2</item>
         <item>1</item>
+        <item>50</item>
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
     </integer-array>
 </resources>

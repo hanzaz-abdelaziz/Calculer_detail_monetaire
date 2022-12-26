@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     tools:listitem="@layout/result_item"
+    android:id="@+id/myListView"
     >
 
 </ListView>
