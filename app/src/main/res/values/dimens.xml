@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="title_margin_bottom">24dp</dimen>
+    <dimen name="linearLayout_monetaire_padding">16dp</dimen>
+    <dimen name="text_size_reslt_title">18sp</dimen>
+</resources>

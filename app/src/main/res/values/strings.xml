@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculer_detail_monetaire</string>
+    <string name="detail_monetaire_title">Détail monétaire</string>
+    <string name="btn_calculate_text">Calculer le détail monétaire</string>
+    <string name="montent_hint_text">20.05DH</string>
+    <integer-array name="dev_money">
+        <item>200</item>
+        <item>100</item>
+        <item>50</item>
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+    </integer-array>
+</resources>
